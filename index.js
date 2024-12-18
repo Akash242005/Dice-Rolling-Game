@@ -12,4 +12,4 @@ function findnumber(){
     }
     dicenumber.textContent = values.join(", ");
     diceimage.innerHTML = images.join("");
-}
+} 
